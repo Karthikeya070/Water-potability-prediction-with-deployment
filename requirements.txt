@@ -57,7 +57,7 @@ grandalf==0.8
 gto==1.7.1
 h11==0.14.0
 html5lib==1.1
-htmlmin==0.1.12
+htmlmin==0.1.12  # works on Python 3.11
 httpcore==1.0.5
 httptools==0.6.1
 httpx==0.27.0
@@ -156,3 +156,4 @@ xgboost==1.7.6
 #ydata-profiling==5.40
 #yfinance==0.2.9
 #zc.lockfile==3.0.post1
+
